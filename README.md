@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="320" height="240" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/1665199057028.png">
-  <img width="320" height="240" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/tree/main/img/1665199067553.png">
+  <img width="320" height="240" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/1665199067553.png">blob
  </p>
 
 <h3 align="center">HertzRotationEffectDemo</h3>
