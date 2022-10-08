@@ -1,7 +1,7 @@
 # HertzRotationEffectDemo
 
 <p align="center">
-  <img width="320" height="240" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/tree/main/img/1665199057028.png">
+  <img width="320" height="240" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/1665199057028.png">
   <img width="320" height="240" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/tree/main/img/1665199067553.png">
  </p>
 
@@ -14,6 +14,3 @@
 </p>
 <h3 align="center"><a href="https://github.com/gtfxhygr/HertzRotationEffectDemo/tree/main/apk/demo.apk"></a>下载APK看效果</h3>
 
-
-
-OpenSSL SSL_read: Connection was reset, errno 10054
