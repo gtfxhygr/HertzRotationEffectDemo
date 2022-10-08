@@ -1,5 +1,5 @@
 # HertzRotationEffectDemo
-<embed src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/video/VID_20221008112205.mp4" type="video/x-ms-asf-plugin" width="550" height="400" autostart="true" loop="true" />
+https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/video/VID_20221008112205.mp4
 <p>
 	<br />
 </p>
