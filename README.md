@@ -1,6 +1,6 @@
 # HertzRotationEffectDemo
 
-[![Watch the video](https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/1665199057028.png)](https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/video/VID_20221008112205.mp4)
+[![Watch the video]("点击播放")](https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/video/VID_20221008112205.mp4)
 <p>
 	<br />
 </p>
