@@ -12,5 +12,5 @@
 <p align="center">
   <img  with="288"  height="512" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/Out_1665201092352.gif">
 </p>
-<h3 align="center"><a href="https://github.com/gtfxhygr/HertzRotationEffectDemo/tree/main/apk/demo.apk"></a>下载APK看效果</h3>
+<h3><a href="https://github.com/gtfxhygr/HertzRotationEffectDemo/tree/main/demo.apk"></a>下载APK看效果</h3>
 
