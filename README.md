@@ -1,8 +1,8 @@
 # HertzRotationEffectDemo
 
 <p align="center">
-  <img width="200" height="400" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/1665199057028.png">
-  <img width="200" height="200" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/1665199067553.png">blob
+  <img width="288" height="512" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/1665199057028.png">
+  <img width="288" height="512" src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/img/1665199067553.png">blob
  </p>
 
 <h3 align="center">HertzRotationEffectDemo</h3>
