@@ -1,4 +1,8 @@
 # HertzRotationEffectDemo
+<embed src="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/video/VID_20221008112205.mp4" type="video/x-ms-asf-plugin" width="550" height="400" autostart="true" loop="true" />
+<p>
+	<br />
+</p>
 <h3><a href="https://github.com/gtfxhygr/HertzRotationEffectDemo/blob/main/demo.apk">下载APK看效果</a></h3>
 <br/>
 <p >
